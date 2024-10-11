@@ -63,22 +63,34 @@ Product_Cost: Cost to the business.
 
 Product_Profit: Profit margin per product.
 
-## Key Insights from the Dashboard
+## Key Insights 
 
 Total Sales and Profit Trends:
+
            Sales decreased by 1.83% compared to the previous year, while profits fell by 7.51%.
 
 Order Distribution by Age Group: 
+
          The majority of orders are made by young customers, 
+         
 Product Category Performance:
+
                       Clothing is  highest-selling product category, followed by electronics and home appliances.
+
 Monthly Sales Fluctuations:
+
            There are sales  peaks during festive seasons.
+
 Average Order Amount:
+
               The average order amount is slightly increasing, reflecting changing customer purchasing behaviors.
+
 Year-on-Year Comparison:
+
            Yearly comparisons highlight growth areas and potential weaknesses in sales strategies.
+
 Customer Insights:
+
         Understanding customer demographics aids in targeting marketing campaigns effectively.
 
 
