@@ -1,0 +1,41 @@
+Product_ID,Product_Name,Product_Category,Product_Subcategory,Product_Price,Product_Cost,Product_Profit
+1,Product_1,Home Appliances,Laundry,211.76,175.21,36.55
+2,Product_2,Electronics,Camera,740.13,384.79,355.34
+3,Product_3,Clothing,Men,814.33,663.21,151.12
+4,Product_4,Clothing,Kids,615.0,383.2,231.8
+5,Product_5,Furniture,Office,2610.72,1722.13,888.59
+6,Product_6,Furniture,Living Room,4467.95,3994.86,473.09
+7,Product_7,Furniture,Office,4984.59,3044.35,1940.24
+8,Product_8,Groceries,Beverages,1196.59,863.84,332.75
+9,Product_9,Electronics,Tablet,1715.85,1515.6,200.25
+10,Product_10,Furniture,Office,649.68,516.43,133.25
+11,Product_11,Home Appliances,Laundry,1412.91,919.3,493.61
+12,Product_12,Clothing,Kids,1197.36,833.8,363.56
+13,Product_13,Home Appliances,Cleaning,4360.19,3341.27,1018.92
+14,Product_14,Books,Fiction,2855.78,1753.79,1101.99
+15,Product_15,Electronics,Tablet,4111.44,2380.14,1731.3
+16,Product_16,Furniture,Living Room,78.87,40.75,38.12
+17,Product_17,Clothing,Men,1395.21,825.91,569.3
+18,Product_18,Furniture,Living Room,2426.57,1980.84,445.73
+19,Product_19,Groceries,Beverages,2976.97,2533.24,443.73
+20,Product_20,Beauty,Skincare,4368.88,3649.89,718.99
+21,Product_21,Home Appliances,Laundry,4987.42,3757.82,1229.6
+22,Product_22,Groceries,Vegetables,655.53,465.38,190.15
+23,Product_23,Clothing,Men,3672.44,3156.54,515.9
+24,Product_24,Groceries,Vegetables,2704.98,1967.1,737.88
+25,Product_25,Home Appliances,Kitchen,2810.96,2012.66,798.3
+26,Product_26,Clothing,Women,1041.44,921.56,119.88
+27,Product_27,Books,Non-Fiction,4435.82,2963.16,1472.66
+28,Product_28,Home Appliances,Cleaning,4823.81,3158.31,1665.5
+29,Product_29,Beauty,Skincare,2316.34,1729.46,586.88
+30,Product_30,Electronics,Mobile,2254.59,1336.99,917.6
+31,Product_31,Beauty,Fragrance,1291.73,685.09,606.64
+32,Product_32,Home Appliances,Cleaning,4886.65,3096.98,1789.67
+33,Product_33,Furniture,Bedroom,3898.91,3253.66,645.25
+34,Product_34,Clothing,Women,3205.34,1748.21,1457.13
+35,Product_35,Home Appliances,Kitchen,3551.94,2574.4,977.54
+36,Product_36,Groceries,Snacks,4534.35,3186.18,1348.17
+37,Product_37,Clothing,Men,3900.39,2743.33,1157.06
+38,Product_38,Electronics,Mobile,1339.48,1033.12,306.36
+39,Product_39,Electronics,Tablet,264.77,137.98,126.79
+40,Product_40,Home Appliances,Kitchen,2775.83,2090.4,685.43
